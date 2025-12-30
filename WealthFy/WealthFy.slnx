@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WealthFy.API/WealthFy.API.csproj" />
+  <Project Path="WealthFy.Application/WealthFy.Application.csproj" />
+  <Project Path="WealthFy.Domain/WealthFy.Domain.csproj" />
+  <Project Path="WealthFy.Infrastructure/WealthFy.Infrastructure.csproj" />
+</Solution>

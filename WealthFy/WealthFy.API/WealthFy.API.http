@@ -1,0 +1,6 @@
+@WealthFy.API_HostAddress = http://localhost:5127
+
+GET {{WealthFy.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
